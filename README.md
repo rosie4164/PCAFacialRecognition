@@ -6,7 +6,7 @@ images. However, I also used PCA as a method of simple facial recognition.
 
 ## Datasets
 
-The dataset used was the LFWcrop Face Dataset (https://conradsanderson.id.au/lfwcrop/), which is a cropped version of the Labeled Faces in the Wild Dataset (http://vis-www.cs.umass.edu/lfw/). The data set "contains more than 13,000 images of faces collected from the web" and was originally "designed for studying the problem of unconstrained face recognition".
+The dataset used was the LFWcrop Face Dataset (https://conradsanderson.id.au/lfwcrop/), which is a cropped version of the Labeled Faces in the Wild Dataset (http://vis-www.cs.umass.edu/lfw/). The data set "contains more than 13,000 images of faces collected from the web" and was originally "designed for studying the problem of unconstrained face recognition". Due to file size, this dataset was not uploaded, but can be found at the above link. 
 ![alt text](http://vis-www.cs.umass.edu/lfw/Six_Face_Panels_sm.jpg) 
 ## Methodology
  * Implement the Eigenface Algorithm on the LFWCrop
